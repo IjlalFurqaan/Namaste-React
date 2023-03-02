@@ -19,9 +19,14 @@ const heading = React.createElement(
       id: "container",
     },
     [heading, heading1]
-  );
+  );  
   
   // create root using createRoot
   const root = ReactDOM.createRoot(document.getElementById("root"));
   // passing react element inside root
   root.render(container);
+
+
+
+
+
