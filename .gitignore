@@ -4,4 +4,3 @@ package-lock.json
 dist
 .parcel-cache
 .babelrc
-.gitignore
